@@ -62,6 +62,7 @@ a {
     flex-direction: column;
     width: 80%;
     padding: 1em 3em 17em 22em;
+    padding-left: 25%;
     background-color: var(--bg-color-light);
     color: var(--text-color-black);
 }
