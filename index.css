@@ -26,6 +26,14 @@ p {
     font-family: lato;
 }
 
+.separator{
+  
+    position: relative;
+    background: var(--color-secondary);
+    height: 1px;
+        
+}
+
 li {
     font-family: poppins;
     padding-top: 1em;
